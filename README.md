@@ -1,2 +1,2 @@
 # FITNESS_CALCULATOR
-********FITNESS CALACULATOR(bmi/whr /body fat)******
+********FITNESS CALACULATOR(bmi/whr /body fat percent)******
